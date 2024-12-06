@@ -1,0 +1,11 @@
+后台地址：http://localhost:8080/thinkphp5cj1e5/admin/dist/index.html
+  
+管理员账号：abo	
+管理员密码：abo
+
+数据库修改路径：
+application/database.php 文件里  修改密码
+    // 用户名
+    'username'        => 'root',
+    // 密码
+    'password'        => '123456',
